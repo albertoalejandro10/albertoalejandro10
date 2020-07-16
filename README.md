@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Estoy trabajando en un sistema de inventario desarrollado en PHP.
+- 🔭 Estoy trabajando en un sistema desarrollado en PHP para una empresa.
 - 🌱 Actualmente estoy estudiando Laravel y Vuejs.
 - 💬 Puedes preguntar cualquier duda.
 - 📫 Contacto: alberto196g@gmail.com
