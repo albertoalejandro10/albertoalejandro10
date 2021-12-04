@@ -1,8 +1,12 @@
-# [![albertoalejandro10 header](https://raw.albertoalejandro10.github.com/images)](https://albertoalejandro10.github.com)
+#  [![albertoalejandro10 header](https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/banner-github.png?raw=true)](https://albertoalejandro10.github.com)
 
+  <div align='center'>
+  <img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/user-card.png?raw=true">
+  </div>
 <p align='center'>
-  <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-  <a href="https://www.linkedin.com/in/albertoalejandro10/"><img height="30" src="./images"></a>
+  <a href="https://www.linkedin.com/in/albertoalejandro10/"><img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/linkedin.png?raw=true"></a>
+  <a href="https://t.me/albertoalejandro10"><img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/telegrama.png?raw=true"></a>
+  <a href="https://github.com/albertoalejandro10"><img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/github.png?raw=true"></a>
 </p>
 
 ## ¡HOLA MUNDO! 👋
