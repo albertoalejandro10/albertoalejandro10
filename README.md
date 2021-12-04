@@ -1,3 +1,10 @@
+# [![albertoalejandro10 header](https://raw.albertoalejandro10.github.com/images)](https://albertoalejandro10.github.com)
+
+<p align='center'>
+  <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
+  <a href="https://www.linkedin.com/in/albertoalejandro10/"><img height="30" src="./images"></a>
+</p>
+
 ## ¡HOLA MUNDO! 👋
 
 ¿Que tal? Mi nombre es Alberto, soy **Frontend Developer** y _estudiante_ de **Ingeniería de Sistemas** en la Universidad de Oriente, Venezuela.
