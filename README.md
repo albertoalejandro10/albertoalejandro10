@@ -1,4 +1,4 @@
-#  [![albertoalejandro10 header](https://github.com/albertoalejandro10/albertoalejandro10/blob/master/imgs/banner-github.png?raw=true)](https://albertoalejandro10.github.com)
+#  [![albertoalejandro10 header](https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/banner-github.png?raw=true)](https://albertoalejandro10.github.com)
 
 ## Hello World 😜
 
@@ -10,9 +10,9 @@ I enjoy working with JavaScript (Vue JS) and PHP (Laravel). I feel confident of 
  ### Contact 📢
 <div align='center'>
 <p align='center'>
-  <a href="https://www.linkedin.com/in/albertoalejandro10/"><img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/imgs/linkedin.png?raw=true"></a>
-  <a href="https://t.me/albertoalejandro10"><img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/imgs/telegrama.png?raw=true"></a>
-  <a href="https://github.com/albertoalejandro10"><img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/imgs/github.png?raw=true"></a>
+  <a href="https://www.linkedin.com/in/albertoalejandro10/"><img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/linkedin.png?raw=true"></a>
+  <a href="https://t.me/albertoalejandro10"><img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/telegrama.png?raw=true"></a>
+  <a href="https://github.com/albertoalejandro10"><img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/github.png?raw=true"></a>
 </p>
 
 <!--
