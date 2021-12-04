@@ -3,8 +3,11 @@
 ## Hello World 😜
 
 Hey there 👋, 
+
 I'm Frontend Developer and Systems Engineer. I'm from Venezuela. I like learn new technologies so that I can use them to solving problems.
 I enjoy working with JavaScript (Vue JS) and PHP (Laravel). I feel confident of my skills with them.
+
+
  🔭  I'm looking for a job as Vue Developer   
   
  ### Contact 📢
