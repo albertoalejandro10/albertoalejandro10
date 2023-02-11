@@ -1,23 +1,78 @@
-#  [![albertoalejandro10 header](https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/banner-github.png?raw=true)](https://albertoalejandro10.github.com)
+<div  id="header"  align="center">
+	<img src="https://media2.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47p00xiddw2drj6yvu3cujg6svy13nekt2ujmlmzw3&rid=giphy.gif&ct=g"  width="200"/>
+	<h1  align="center">Hey there 👋, I'm Alberto Alejandro</h1>
+	<h3  align="center"> Frontend developer and Systems Engineer from Venezuela. I like programming and design applications.</h3>
+</div>
 
-## Hello World 😜
+<div  id="badges"  align="center">
+	<a  href="http://twitch.com/youdevs"target="_blank"><img src="https://img.shields.io/twitch/status/youdevs color=purple&logo=twitch&style=for-the-badge" alt="Twitch Badge"/></a>
+	<a  href="https://www.youtube.com/youdevs" target="_blank">
+	<img  src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
+	alt="Youtube Badge"/></a>
+	<a  href="https://twitter.com/CarlosYouDevs" target="_blank">
+	<img  src="https://img.shields.io/twitter/follow/CarlosYouDevs color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
+	</a>
+</div>
 
-Hey there 👋, 
+---  
 
-I'm Frontend Developer and Systems Engineer. I'm from Venezuela. I like learn new technologies so that I can use them to solving problems.
-I enjoy working with JavaScript (Vue JS) and PHP (Laravel). I feel confident of my skills with them.
+### 👨‍💻 About Me:
+
+- ☑️ JavaScript Developer
+
+- 🌿I'm currently learning Angular for my work
+
+- 🌐 Website **[albertoalejandro10 - Portfolio](https://albertoalejandro10.github.io/)**
+
+- 📫 mail: **alberto196g@gmail.com**
 
 
- 🔭  I'm looking for a job as Vue Developer   
-  
- ### Contact 📢
-<div align='center'>
-<p align='center'>
-  <a href="https://www.linkedin.com/in/albertoalejandro10/"><img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/linkedin.png?raw=true"></a>
-  <a href="https://t.me/albertoalejandro10"><img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/telegrama.png?raw=true"></a>
-  <a href="https://github.com/albertoalejandro10"><img src="https://github.com/albertoalejandro10/albertoalejandro10/blob/master/images/github.png?raw=true"></a>
-</p>
+---
+
+<div  align="left">
+	<h3>🔨 Languages and Tools:</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"  title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"  title="Nuxt.js" alt="Nuxt.js" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> &nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/> &nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/> &nbsp;
+</div>
+
+---
+
+###  📊 My Stats:
+
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=albertoalejandro10&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E)](https://git.io/streak-stats)
+
+</div>
+
+
 
 <!--
-**albertoalejandro10/albertoalejandro10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+**albertoalejandro10/albertoalejandro10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
