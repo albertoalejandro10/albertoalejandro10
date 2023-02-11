@@ -4,16 +4,6 @@
 	<h3  align="center"> Frontend developer and Systems Engineer from Venezuela. I like programming and design applications.</h3>
 </div>
 
-<div  id="badges"  align="center">
-	<a  href="http://twitch.com/youdevs"target="_blank"><img src="https://img.shields.io/twitch/status/youdevs color=purple&logo=twitch&style=for-the-badge" alt="Twitch Badge"/></a>
-	<a  href="https://www.youtube.com/youdevs" target="_blank">
-	<img  src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-	alt="Youtube Badge"/></a>
-	<a  href="https://twitter.com/CarlosYouDevs" target="_blank">
-	<img  src="https://img.shields.io/twitter/follow/CarlosYouDevs color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
-	</a>
-</div>
-
 ---  
 
 ### 👨‍💻 About Me:
@@ -32,33 +22,19 @@
 <div  align="left">
 	<h3>🔨 Languages and Tools:</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"  title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg"  title="Nuxt.js" alt="Nuxt.js" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> &nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/> &nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/> &nbsp;
 </div>
 
