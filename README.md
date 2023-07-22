@@ -12,7 +12,7 @@
 
 - 🌿  I'm currently learning Angular.
 
-- 🌐  Website **[albertoalejandro10 - Portfolio](https://albertoalejandro10.github.io/)**
+- 🌐  Website **[albertoalejandro10 - Portfolio](https://albertoalejandro10.netlify.app/)**
 
 - 📫  mail: **alberto196g@gmail.com**
 
@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> &nbsp;
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/github-icon.svg" title="GitHub" alt="GitHub" width="40" height="40"/> &nbsp;
+  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/> &nbsp;
 </div>
 
