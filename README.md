@@ -1,8 +1,9 @@
 <div id="header" align="center">
-	<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/> 
-	<h1>Hey there 👋, I'm Alberto Alejandro</h1> 
-	<h3>Web developer with two years of experience in front-end development. Knowledge of HTML, CSS, and JavaScript, with a particular passion for developing innovative solutions with the latest technologies.</h3> 
+	<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
+	<span><h1>Hey there 👋, I'm Alberto Alejandro</h1></span> 
+	<span><h3>Web developer with two years of experience in front-end development. Knowledge of HTML, CSS, and JavaScript, with a particular passion for developing innovative solutions with the latest technologies.</h3></span> 
 </div>
+
 
 ---  
 
