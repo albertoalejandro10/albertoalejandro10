@@ -1,7 +1,7 @@
 <div id="header" align="center">
 	<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
-	<h1 align="center">Hey there 👋, I'm Alberto Alejandro</h1>
-	<h3 align="center">Frontend developer and Systems Engineer from Venezuela. I like programming and designing applications.</h3>
+	<p style='font-size: 34px; font-weight: bold; color: #c9c9c9' align="center">Hey there 👋, I'm Alberto Alejandro</h1>
+	<p style='font-size: 18px;' align="center">Frontend developer and Systems Engineer from Venezuela. I like programming and designing applications.</h3>
 </div>
 
 ---  
