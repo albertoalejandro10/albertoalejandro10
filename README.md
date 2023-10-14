@@ -1,7 +1,7 @@
-<div  id="header"  align="center">
-	<img src="https://media2.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47p00xiddw2drj6yvu3cujg6svy13nekt2ujmlmzw3&rid=giphy.gif&ct=g"  width="200"/>
-	<h1  align="center">Hey there 👋, I'm Alberto Alejandro</h1>
-	<h3  align="center"> Frontend developer and Systems Engineer from Venezuela. I like programming and design applications.</h3>
+<div id="header" align="center">
+	<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" width="200"/>
+	<h1 align="center">Hey there 👋, I'm Alberto Alejandro</h1>
+	<h3 align="center">Frontend developer and Systems Engineer from Venezuela. I like programming and designing applications.</h3>
 </div>
 
 ---  
