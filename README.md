@@ -23,13 +23,6 @@ Fueled by a childhood fascination with computing, I've leveraged two years of wo
 <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/> &nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/> &nbsp;
 
-### 📫 Contact:
-
-- 🌐 **Portfolio:** [AlbertoAlejandro10](https://albertoalejandro10.netlify.app/)
-- ✉️ **Email:** alberto196g@gmail.com
-- 🧑‍💻 **HackerRank:** [AlbertoAlejandro - HackerRank Profile](https://www.hackerrank.com/albertoalejandro)
-- 📨 **Telegram:** [AlbertoAlejandro - Telegram](https://t.me/albertoalejandro10)
-
 ### 📈 Statistics:
 <div align="center">
 
