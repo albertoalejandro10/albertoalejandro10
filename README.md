@@ -25,9 +25,10 @@ Fueled by a childhood fascination with computing, I've leveraged two years of wo
 
 ### 📫 Contact:
 
-- 🌐 **Portfolio:** [albertoalejandro10.netlify.app](https://albertoalejandro10.netlify.app/)
+- 🌐 **Portfolio:** [AlbertoAlejandro10](https://albertoalejandro10.netlify.app/)
 - ✉️ **Email:** alberto196g@gmail.com
-- 🧑‍💻 **HackerRank:** [albertoalejandro - HackerRank](https://www.hackerrank.com/albertoalejandro)
+- 🧑‍💻 **HackerRank:** [AlbertoAlejandro - HackerRank Profile](https://www.hackerrank.com/albertoalejandro)
+- 📨 **Telegram:** [AlbertoAlejandro - Telegram](https://t.me/albertoalejandro10)
 
 ### 📈 Statistics:
 <div align="center">
