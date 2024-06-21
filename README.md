@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Alberto Alejandro
-**Full Stack Developer & Systems Engineer** | Building secure, innovative web applications
+**Frontend Developer & Systems Engineer** | Building secure, innovative web applications
 
 ## 🎓 About Me:
 
