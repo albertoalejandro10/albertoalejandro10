@@ -1,14 +1,23 @@
-# 👋 Hello, I'm Alberto Alejandro
-**Frontend Developer & Systems Engineer** | Building secure, innovative web applications
+# Hello, I'm Alberto Alejandro 👋 
+### Frontend Developer & Systems Engineer
 
-## 🎓 About Me:
+<img align="right" width="320" src="https://raw.githubusercontent.com/albertoalejandro10/albertoalejandro10/master/images/icon-logo.png" />
 
-Ever since I was a kid, I've loved computers. That passion led me to a career in web development. I have 3 years of experience building web apps using JavaScript, PHP, and MySQL. I enjoy solving problems that make things easier and better for people who use my apps. I'm always learning new things to keep my skills sharp and make sure my apps are secure and reliable.
+```js
+const greetings = () => {
+  Global.console.log('Hello from JavaScript')
+}
+greetings()
+
+```
+
+### 🎓 About Me:
+
+Since childhood, computers have fascinated me. This passion drove me to pursue a career in web development. Now, I use my skills to create beautiful and functional user interfaces, keeping a strong focus on code quality and maintainability. I am a lifelong learner, always looking for opportunities to expand my knowledge and stay up to date with the latest trends and technologies.
 
 ### ⚙️ Tools and Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,nuxt,pinia,vite,vitest,angular,tailwindcss,bootstrap,sass,astro,nodejs,expressjs,php,laravel,wordpress,mysql,postgresql,git,github,linux,ubuntu,vscode,npm,pnpm,postman&perline=16)](https://skillicons.dev)
-
 
 ### 📈 Statistics:
 <div align="center">
