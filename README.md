@@ -1,8 +1,6 @@
 # Hello, I'm Alberto Alejandro 👋 
 ### Frontend Developer & Systems Engineer
 
-<img align="right" width="320" src="https://raw.githubusercontent.com/albertoalejandro10/albertoalejandro10/master/images/icon-logo.png" />
-
 ```js
 const greetings = () => {
   Global.console.log('Hello from JavaScript')
@@ -17,7 +15,7 @@ Since childhood, computers have fascinated me. This passion drove me to pursue a
 
 ### ⚙️ Tools and Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,nuxt,pinia,vite,vitest,angular,tailwindcss,bootstrap,sass,astro,nodejs,expressjs,php,laravel,wordpress,mysql,postgresql,git,github,linux,ubuntu,vscode,npm,pnpm,postman&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,nuxt,pinia,vite,vitest,angular,tailwindcss,bootstrap,sass,astro,nodejs,expressjs,php,laravel,wordpress,mysql,postgresql,git,github,linux,ubuntu,vscode,npm,pnpm,postman)](https://skillicons.dev)
 
 ### 📈 Statistics:
 <div align="center">
