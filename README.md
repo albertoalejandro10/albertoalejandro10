@@ -1,25 +1,23 @@
-# Hello, I'm Alberto Alejandro 👋 
-### Frontend Developer & Systems Engineer
+# Hello, I'm Alberto Alejandro 👋  
+### Vue.js & Nuxt.js Developer | Performance-Optimized Web Apps  
 
-```js
-const greetings = () => {
-  Global.console.log('Hello from JavaScript')
-}
-greetings()
+### 🚀 About Me  
+Vue/Nuxt.js developer building optimized web applications. Systems Engineer background. Focus on performance, clean code, and maintainable architecture.
 
-```
+### 🛠 Tech Stack  
+#### Frontend  
+[![Vue.js](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,pinia,vite,tailwind,vitest,pnpm,yarn,bootstrap)](https://skillicons.dev)  
+#### Backend & Tools  
+[![Backend](https://skillicons.dev/icons?i=golang,nodejs,express,php,mysql,postgres,mongodb,git,github,linux,vscode,docker,postman)](https://skillicons.dev)
 
-### 🎓 About Me:
-
-Since childhood, computers have fascinated me. This passion drove me to pursue a career in web development. Now, I use my skills to create beautiful and functional user interfaces, keeping a strong focus on code quality and maintainability. I am a lifelong learner, always looking for opportunities to expand my knowledge and stay up to date with the latest trends and technologies.
-
-### ⚙️ Tools and Languages:
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,vue,nuxt,pinia,vite,vitest,angular,tailwindcss,bootstrap,sass,astro,nodejs,expressjs,php,laravel,wordpress,mysql,postgresql,git,github,linux,ubuntu,vscode,npm,pnpm,postman)](https://skillicons.dev)
-
-### 📈 Statistics:
+### 🔥 GitHub Highlights  
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=albertoalejandro10&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=22272E)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=albertoalejandro10&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoalejandro10&layout=compact&theme=vue-dark&hide_border=true&bg_color=22272E)](https://github.com/albertoalejandro10)
 
 </div>
+
+### 📫 Let's Connect  
+- **Portfolio:** [albertoalejandro10.netlify.app](https://albertoalejandro10.netlify.app)  
+- **Open to:** Collaborations, Vue/Nuxt projects, open-source projects.
