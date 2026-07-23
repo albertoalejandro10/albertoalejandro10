@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Alberto Alejandro
 
-**Frontend Developer & Systems Engineer**
+**Full-Stack Nuxt Developer & Systems Engineer**
 
-Specialized in Vue.js and Nuxt.js, with a focus on building fast web apps using modular architecture and clean, maintainable code. Experienced in both SaaS and freelance projects, delivering reusable components, typed logic with TypeScript, and optimized performance through Vite and Tailwind CSS—creating smooth, reliable digital experiences.
+I build and run complete Nuxt applications—from the interfaces users see to the APIs, PostgreSQL data models, and AWS infrastructure behind them. Currently I work part-time with **Fundación América por la Infancia**, maintaining and continuously improving **FAI+**, a subscription-based e-learning platform (LMS) I helped complete and launch to production. Before that, I spent two years building multi-tenant SaaS platforms—scheduling, CRMs, dashboards, and real-time data—used daily by real businesses.
 
-- Portfolio: [albertoalejandro10.netlify.app](https://albertoalejandro10.netlify.app)
-- Open to: Collaborations, Vue/Nuxt projects, open-source
+I care about clean, maintainable code, thoughtful API contracts, and the small reliability details that make software feel dependable.
+
+- 🌐 Portfolio: [albertoalejandro10.netlify.app](https://albertoalejandro10.netlify.app)
+- 💼 Open to: Full-stack Nuxt/Vue projects, SaaS builds, and collaborations
+- 🗣 English & Spanish
 
 ---
 
@@ -15,14 +18,16 @@ Specialized in Vue.js and Nuxt.js, with a focus on building fast web apps using 
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,pinia,vite,tailwind,vitest,pnpm,yarn,bootstrap)](https://skillicons.dev)
 
-#### Backend & Tools
+#### Backend & Infrastructure
 
-[![Backend](https://skillicons.dev/icons?i=golang,nodejs,express,php,mysql,postgres,mongodb,git,github,linux,vscode,docker,postman)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=golang,nodejs,express,php,mysql,postgres,mongodb,git,github,linux,vscode,docker,aws,postman)](https://skillicons.dev)
 
 ---
 
 ## 🔥 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertoalejandro10&layout=compact&theme=vue-dark&hide_border=true" alt="Top Langs" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=albertoalejandro10&show_icons=true&theme=vue-dark&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=albertoalejandro10&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 ---
