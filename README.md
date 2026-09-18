@@ -2,7 +2,7 @@
 
 **Full-Stack Nuxt Developer & Systems Engineer**
 
-I build and run complete Nuxt applications—from the interfaces users see to the APIs, PostgreSQL data models, and AWS infrastructure behind them. Currently I work part-time with **Fundación América por la Infancia**, maintaining and continuously improving **FAI+**, a subscription-based e-learning platform (LMS) I helped complete and launch to production. Before that, I spent two years building multi-tenant SaaS platforms—scheduling, CRMs, dashboards, and real-time data—used daily by real businesses.
+I build and run complete Nuxt applications—from the interfaces users see to the APIs, PostgreSQL data models, and AWS infrastructure behind them.
 
 I care about clean, maintainable code, thoughtful API contracts, and the small reliability details that make software feel dependable.
 
