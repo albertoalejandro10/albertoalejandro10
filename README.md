@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Alberto Alejandro
 
-**Full-Stack Nuxt Developer & Systems Engineer**
+**Full-Stack Developer & Systems Engineer**
 
-I build and run complete Nuxt applications—from the interfaces users see to the APIs, PostgreSQL data models, and AWS infrastructure behind them.
+I build and run complete web apps—from the interfaces users see to the APIs, PostgreSQL data models, and AWS infrastructure behind them. I can start a product from zero or take over an existing one, launch it, and keep it running after launch. I often work on payments and subscriptions, access control, SaaS dashboards, and real-time data.
 
 I care about clean, maintainable code, thoughtful API contracts, and the small reliability details that make software feel dependable.
 
-- 🌐 Portfolio: [albertoalejandro10.netlify.app](https://albertoalejandro10.netlify.app)
-- 💼 Open to: Full-stack Nuxt/Vue projects, SaaS builds, and collaborations
+- 🌐 Portfolio: [albertoalejandro.nuxt.space](https://albertoalejandro.nuxt.space)
+- 💼 Open to: Full-stack web apps (Vue, Nuxt), SaaS builds, and collaborations
 - 🗣 English & Spanish
 
 ---
